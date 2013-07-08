@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="blue">#17affd</color>
+    <color name="button_orange_disabled">#e8843b</color>
+    <color name="grey_oclock">#262a33</color>
+    <color name="profile_text_color">#464646</color>
+    <color name="profile_text_color_light">#5c5c5c</color>
+    <color name="white">#FFFFFF</color>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="basic_scripture_btnmargin">2dp</dimen>
+    <dimen name="basic_scripture_btnwith">0dp</dimen>
+    <dimen name="basic_scripture_tablemargin">3dp</dimen>
+    <dimen name="local_padding">5dp</dimen>
+
+    <integer name="row_length">2</integer>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Santiware</string>
+    <string name="bicker">Bicker</string>
+    <string name="bicker_description">2km cover in one, ranked as low fitness</string>
+    <string name="category_icon">category icon</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="driver">Driver</string>
+    <string name="driver_details">240km covered in three day, ranked as high fuel consumption</string>
+    <string name="network_required">An active internet connection is required to use this feature, your network is
+        currently connected, do you wish to open \"Wireless and network\"</string>
+    <string name="notification_icon">notification icon</string>
+    <string name="notification_label">Notifications</string>
+    <string name="notification_label_description">Send notifications to the nearest point of safety </string>
+    <string name="profile_categories">Safety</string>
+    <string name="profile_retailers">Hazards</string>
+    <string name="retailer_icon">retailer icon</string>
+    <string name="scripture_screen_available">Available</string>
+    <string name="user_icon">friend icon</string>
+    <string name="user_label">Notify Friend</string>
+    <string name="user_label_description">Notify friend about the emergency health situation</string>
+    <string name="view_pastor">View Activities</string>
+    <string name="walker">Walker</string>
+    <string name="walker_description">500m in three days, low fitness</string>
+    <string name="wireless_and_network">Wireless and network</string>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="Coth_Avatar">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:padding">1dp</item>
+    </style>
+
+    <style name="Coth_Button_Text">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Coth_ListItem_Description">
+        <item name="android:textColor">#636363</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+    <style name="SantiwareTheme" parent="@android:style/Theme.Holo"></style>
+
+    <style name="TextAppearanceMedium">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextAppearanceSmall">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>

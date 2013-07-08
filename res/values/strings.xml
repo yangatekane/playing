@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" >Santiware</string>
+    <string name="action_settings" >Settings</string>
+    <string name="screen_available">Available</string>
+    <string name="view_activies">Current Activity</string>
+    <string name="category_icon">category icon</string>
+    <string name="bicker_description">2km cover in one day, ranked as low fitness</string>
+    <string name="walker_description">500m in three days, low fitness</string>
+    <string name="driver">Driver</string>
+    <string name="driver_details">240km covered in three day, ranked as high fuel consumption</string>
+    <string name="walker">Walker</string>
+    <string name="bicker">Bicker</string>
+    <string name="driving">Driving</string>
+    <string name="driving_details">Currently driving and has covered 20km</string>
+    <string name="profile_description">Yanga is a driver and spends five days in the car and travels an average of 400km,this is high fuel consumption, high carbon footprint and low fitness lifestyle which in a long run will affect his health </string>
+    <string name="user">Yanga Tekane</string>
+    <string name="wireless_and_network">Wireless and network</string>
+    <string name="network_required">An active internet connection is required to use this feature, your network is
+        currently connected, do you wish to open \"Wireless and network\"
+    </string>
+    <string name="applicationId">380615018626574</string>
+</resources>

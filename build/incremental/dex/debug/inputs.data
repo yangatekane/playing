@@ -1,0 +1,22 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1372852130000 630 abe6592a3456682e1bc075606963041a1301ed02 /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/R$dimen.class
+1372889005000 488 a8d32dcc3f3e0031b4e0717fc7da8a13e65428df /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/R$layout.class
+1372841924000 335 07431b0223700ab637a51cd4bfc4e16399a8fea1 /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/BuildConfig.class
+1372889005000 1962 12c2c27411809a8fdd9b94cfa7b9c82f6bf7cc2a /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/HomeActivity.class
+1372852130000 605 2ecd06733b64694fe1b64a457250a80dda18a642 /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/R$color.class
+1372841900000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/yanga/proofOfconcept/SantiwareProject/Santiware/libs/android-support-v4.jar
+1372889005000 1083 fcee5ac02d75cc51edde5fdfae5ec35e3ac4a538 /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/R$id.class
+1372889005000 717 44cdfef09d8c49a72a2048da7e06681fff852a26 /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/R.class
+1372889005000 388 f8d73b8970d273bc1cf632b741414f67e4f8f4c0 /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/R$integer.class
+1372889005000 1281 277952133367eb258331c3de82f6c3c4f45b20ac /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/R$string.class
+1372841924000 325 a1da33a8c6cc8fc8a04167a35236b221a3184995 /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/R$attr.class
+1372888634000 1926 c1d23973ea199a83b1c84a1b0de5d00042632101 /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/R$drawable.class
+1372887842000 422 ba98cdd3241c58ce9a464380c6837f5d78e23be1 /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/PageItem.class
+1372887842000 1258 84081142bb56e30e588cdd020e8a3694670492c0 /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/GridViewFragment.class
+1372889005000 665 71b42da62a16f0254faf4157204417e8e39f4169 /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/R$style.class
+1372889005000 373 889111cffebd88ee74eb512a73d0f2b444346739 /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/R$menu.class
+1372887842000 752 fcb9dd6f3ce38310b257dca6d98bd5fe06c750aa /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/ProfileFragment.class
+1372887842000 767 d63c85ed16563678fafc0353f9dcdd39e37fb4a1 /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/MyActivitiesFragment.class
+1372887842000 1771 6b66080640388ef130dfa9e6abce2a2ea1a72413 /home/yanga/proofOfconcept/SantiwareProject/Santiware/build/classes/debug/com/santiware/CustomFragmentPagerAdapter.class

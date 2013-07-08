@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="local_padding">5dp</dimen>
+    <dimen name="basic_btnwith">0dp</dimen>
+    <dimen name="basic_btnmargin">2dp</dimen>
+    <dimen name="basic_tablemargin">3dp</dimen>
+</resources>

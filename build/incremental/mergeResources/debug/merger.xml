@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style name="TextAppearanceMedium" >
+                    <item name="android:textSize">
+18sp
+                    </item>
+                </style>
+
+                <style name="TextAppearanceSmall" >
+                    <item name="android:textSize">
+14sp
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="basic_scripture_btnwith" >0dp
+                </dimen>
+                <dimen name="basic_scripture_tablemargin" >3dp
+                </dimen>
+                <dimen name="local_padding" >5dp
+                </dimen>
+                <dimen name="basic_scripture_btnmargin" >2dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="profile_retailers_description" >Detected sickness hazards by the rubber band
+                </string>
+                <string name="category_icon" >category icon
+                </string>
+                <string name="walker_description" >500m in three days, low fitness
+                </string>
+                <string name="profile_categories_description" >Optimum directions to places of safety
+                </string>
+                <string name="high_risk_area" >Risk Area
+                </string>
+                <string name="user_label" >Notify Friend
+                </string>
+                <string name="wireless_and_network" >Wireless and network
+                </string>
+                <string name="bicker" >Bicker
+                </string>
+                <string name="bicker_description" >2km cover in one, ranked as low fitness
+                </string>
+                <string name="notification_label" >Notifications
+                </string>
+                <string name="network_required" >An active internet connection is required to use this feature, your network is
+        currently connected, do you wish to open \"Wireless and network\"
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="driver_details" >240km covered in three day, ranked as high fuel consumption
+                </string>
+                <string name="scripture_screen_available" >Available
+                </string>
+                <string name="panic_details" >The rubber band user has fired the panic signal, please make means to help
+                </string>
+                <string name="vital_signs" >Vital Signs
+                </string>
+                <string name="retailer_icon" >retailer icon
+                </string>
+                <string name="notification_icon" >notification icon
+                </string>
+                <string name="walker" >Walker
+                </string>
+                <string name="view_pastor" >View Activities
+                </string>
+                <string name="drawer_close" >Close navigation drawer
+                </string>
+                <string name="notification_label_description" >Send notifications to the nearest point of safety 
+                </string>
+                <string name="user_icon" >friend icon
+                </string>
+                <string name="driver" >Driver
+                </string>
+                <string name="panic" >Panic
+                </string>
+                <string name="user_label_description" >Notify friend about the emergency health situation
+                </string>
+                <string name="app_name" >Santiware
+                </string>
+                <string name="profile_categories" >Safety
+                </string>
+                <string name="profile_retailers" >Hazards
+                </string>
+                <string name="drawer_open" >Open navigation drawer
+                </string>
+            </file>
+            <file
+                name="home_activity"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/layout/home_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ic_launcher"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                name="ic_launcher"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="home"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/menu/home.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="action_band_diagnostic_reports"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/action_band_diagnostic_reports.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_collections_sort_by_size_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-mdpi/ic_collections_sort_by_size_bck.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_alerts_and_states_warning_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-hdpi/ic_alerts_and_states_warning_wht.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_location_place_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-mdpi/ic_location_place_wht.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_alerts_and_states_warning_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-xhdpi/ic_alerts_and_states_warning_wht.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-hdpi/ic_drawer.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_location_place_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-mdpi/ic_location_place_bck.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="action_band_latest_diagnostics"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/action_band_latest_diagnostics.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_collections_view_as_list_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-xhdpi/ic_collections_view_as_list_bck.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_content_email_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-xhdpi/ic_content_email_wht.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-mdpi/ic_drawer.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_alerts_and_states_warning_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-xhdpi/ic_alerts_and_states_warning_bck.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_view_as_list_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-mdpi/ic_collections_view_as_list_wht.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="action_band_location"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/action_band_location.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_alerts_and_states_warning_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-hdpi/ic_alerts_and_states_warning_bck.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_sort_by_size_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-hdpi/ic_collections_sort_by_size_wht.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="button_blue"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/button_blue.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-xhdpi/ic_drawer.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_view_as_list_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-hdpi/ic_collections_view_as_list_wht.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_view_as_list_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-hdpi/ic_collections_view_as_list_bck.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_hazard_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/ic_hazard_wht.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_collections_sort_by_size_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-hdpi/ic_collections_sort_by_size_bck.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_location_place_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-hdpi/ic_location_place_bck.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_friend_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/ic_friend_wht.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-hdpi/drawer_shadow.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="button_red"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/button_red.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_safety_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/ic_safety_wht.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-mdpi/drawer_shadow.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_content_email_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-xhdpi/ic_content_email_bck.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_sort_by_size_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-xhdpi/ic_collections_sort_by_size_wht.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_view_as_list_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-mdpi/ic_collections_view_as_list_bck.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_sort_by_size_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-mdpi/ic_collections_sort_by_size_wht.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_notifications_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/ic_notifications_wht.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_content_email_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-hdpi/ic_content_email_wht.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_location_place_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-xhdpi/ic_location_place_bck.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-xhdpi/drawer_shadow.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_content_email_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-hdpi/ic_content_email_bck.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="action_band_share_diagnostics"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/action_band_share_diagnostics.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_content_email_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-mdpi/ic_content_email_bck.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_band_update_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/ic_band_update_wht.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/values/themes.xml"
+                qualifiers="" >
+
+                <style
+                    name="SantiwareTheme"
+                    parent="@android:style/Theme.Holo" >
+                </style>
+            </file>
+            <file
+                name="button_orange"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/button_orange.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_alerts_and_states_warning_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-mdpi/ic_alerts_and_states_warning_wht.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="button_purple"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/button_purple.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_content_email_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-mdpi/ic_content_email_wht.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_view_as_list_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-xhdpi/ic_collections_view_as_list_wht.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_sort_by_size_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-xhdpi/ic_collections_sort_by_size_bck.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_location_place_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-xhdpi/ic_location_place_wht.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="action_band_alerts"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/action_band_alerts.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_location_place_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-hdpi/ic_location_place_wht.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_alerts_and_states_warning_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-mdpi/ic_alerts_and_states_warning_bck.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="item_app"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/layout/item_app.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_recommend"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/layout/fragment_recommend.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="coth_image_background"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/coth_image_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="prayer_base"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/prayer_base.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/values/cothstyles.xml"
+                qualifiers="" >
+
+                <style name="Coth_ListItem_Description" >
+                    <item name="android:textColor">
+#636363
+                    </item>
+                    <item name="android:typeface">
+sans
+                    </item>
+                    <item name="android:textSize">
+13sp
+                    </item>
+                    <item name="android:padding">
+5dp
+                    </item>
+                </style>
+
+                <style name="Coth_Avatar" >
+                    <item name="android:layout_width">
+100dp
+                    </item>
+                    <item name="android:layout_height">
+100dp
+                    </item>
+                    <item name="android:layout_marginRight">
+5dp
+                    </item>
+                    <item name="android:padding">
+1dp
+                    </item>
+                </style>
+
+                <style name="Coth_Button_Text" >
+                    <item name="android:textColor">
+#FFFFFF
+                    </item>
+                    <item name="android:typeface">
+sans
+                    </item>
+                    <item name="android:textSize">
+14sp
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                </style>
+            </file>
+            <file
+                name="button_gold"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/button_gold.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ta"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/ta.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="button_green"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/button_green.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="coth_metallic_background"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/coth_metallic_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="fragment_profile"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/layout/fragment_profile.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="profile"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/layout/profile.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/values/integers.xml"
+                qualifiers="" >
+                <integer name="row_length" >
+2
+                </integer>
+            </file>
+            <file
+                name="eprofile_message"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/eprofile_message.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="blue" >#17affd
+                </color>
+                <color name="button_orange_disabled" >#e8843b
+                </color>
+                <color name="white" >#FFFFFF
+                </color>
+                <color name="black" >#000000
+                </color>
+                <color name="profile_text_color" >#464646
+                </color>
+                <color name="profile_text_color_light" >#5c5c5c
+                </color>
+                <color name="grey_oclock" >#262a33
+                </color>
+            </file>
+            <file
+                name="my_activities"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/layout/my_activities.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ic_social_person_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-xhdpi/ic_social_person_wht.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="profile_image_background"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/profile_image_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_social_person_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-hdpi/ic_social_person_bck.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_social_person_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-mdpi/ic_social_person_bck.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_social_person_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-mdpi/ic_social_person_wht.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="profile_metallic_background"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/profile_metallic_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_social_person_wht"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-hdpi/ic_social_person_wht.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="action_login_logout"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable/action_login_logout.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_social_person_bck"
+                path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/main/res/drawable-xhdpi/ic_social_person_bck.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+        </source>
+        <source path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/yanga/proofOfconcept/SantiwareProject/Santiware/src/debug/res" />
+    </dataSet>
+
+</merger>
